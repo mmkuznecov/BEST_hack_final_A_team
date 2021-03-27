@@ -38,11 +38,11 @@
 
 До обработки:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T5Igln99n8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/T5Igln99n8E/0.jpg)](http://www.youtube.com/watch?v=T5Igln99n8E "Video Title")
 
 И после:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NL2mjWfSUIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/NL2mjWfSUIo/0.jpg)](http://www.youtube.com/watch?v=NL2mjWfSUIo "Video Title")
 
 ## Приложения
 
